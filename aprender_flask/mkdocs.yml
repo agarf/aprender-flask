@@ -1,0 +1,16 @@
+site_name: Aula de Flask
+repo_url: https://github.com/agarf/aprender-flask
+repo_name: agarf/aprender-flask
+edit_uri: tree/master/docs
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/flask.png
+  favicon: assets/flask.png
+
+markdown_extensions:
+  - attr_list
+
+extra_css:
+  - stylesheets/extra.css
